@@ -16,3 +16,4 @@ public class MilageReport {
 		System.out.println("Total price spent on gas was $" + totalPrice);
 	}
 }
+

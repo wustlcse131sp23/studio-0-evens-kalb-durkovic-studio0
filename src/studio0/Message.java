@@ -6,3 +6,5 @@ public class Message {
 		System.out.println("Hi squad");
 	}
 }
+
+
